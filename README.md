@@ -1,4 +1,4 @@
-# Speed Dating Match Prediction (Custom XGBoost)
+# Speed Dating Match Prediction (Behavioral Risk Modeling)
 
 ## Abstract
 This project predicts whether a pair will form a match using the **Speed Dating** dataset.  
